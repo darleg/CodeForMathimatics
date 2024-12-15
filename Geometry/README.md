@@ -3,3 +3,5 @@ Geometry is a branch of mathematics that explores the properties, measurements, 
    blocks of geometric figures.
 2. Plane Geometry: Deals with shapes like triangles, circles, and polygons that lie in a flat, 
    two-dimensional plane.
+3. Solid Geometry: Focuses on three-dimensional figures like cubes, spheres, and pyramids, and 
+   explores their properties and relationships.
