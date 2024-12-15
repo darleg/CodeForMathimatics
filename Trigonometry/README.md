@@ -11,6 +11,9 @@ right-angled triangles. Here's a brief overview:
   
 - Cosine (cos): This function relates the angle to the ratio of the length of the adjacent 
   side to the hypotenuse.
+
+  cos θ = Adjacent Side/Hypotenuse
+  
 - Tangent (tan): This function relates the angle to the ratio of the length of the opposite 
   side to the adjacent side.
 
