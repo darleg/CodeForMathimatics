@@ -5,3 +5,5 @@ Geometry is a branch of mathematics that explores the properties, measurements, 
    two-dimensional plane.
 3. Solid Geometry: Focuses on three-dimensional figures like cubes, spheres, and pyramids, and 
    explores their properties and relationships.
+4. Coordinate Geometry: Uses a coordinate system to study geometric figures, blending algebra 
+   and geometry to solve problems.
