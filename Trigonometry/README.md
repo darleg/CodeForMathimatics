@@ -1,1 +1,1 @@
-Hyperbolic functions are analogues of the trigonometric functions but are based on hyperbolas instead of circles. They are particularly useful in various areas of mathematics, physics, and engineering, especially in the fields of calculus, complex analysis, and hyperbolic geometry.
+
