@@ -8,3 +8,5 @@ right-angled triangles. Here's a brief overview:
   to the hypotenuse.
 - Cosine (cos): This function relates the angle to the ratio of the length of the adjacent 
   side to the hypotenuse.
+
+Trigonometry isn't just limited to theoretical math; it's widely used in various fields such as physics, engineering, astronomy, and even in computer graphics. It's a critical tool for understanding waves, oscillations, and many other natural phenomena.
