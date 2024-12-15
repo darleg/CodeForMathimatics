@@ -7,7 +7,7 @@ right-angled triangles. Here's a brief overview:
 - Sine (sin): This function relates the angle to the ratio of the length of the opposite side 
   to the hypotenuse.
 
-  $sin \theta = \frac{Opposite}{Hypotenuse}$
+  $\large \sin \theta = \frac{Opposite}{Hypotenuse}$
   
 - Cosine (cos): This function relates the angle to the ratio of the length of the adjacent 
   side to the hypotenuse.
