@@ -9,3 +9,5 @@ Geometry is a branch of mathematics that explores the properties, measurements, 
    and geometry to solve problems.
 5. Transformational Geometry: Looks at how shapes can be transformed through operations like 
    translation, rotation, reflection, and scaling.
+6. Non-Euclidean Geometry: Explores geometric systems that differ from the traditional 
+   Euclidean geometry, such as hyperbolic and elliptic geometry.
