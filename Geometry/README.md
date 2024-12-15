@@ -12,4 +12,4 @@ Geometry is a branch of mathematics that explores the properties, measurements, 
 6. Non-Euclidean Geometry: Explores geometric systems that differ from the traditional 
    Euclidean geometry, such as hyperbolic and elliptic geometry
 
-Geometry is essential in many fields, including architecture, engineering, computer graphics, and physics. It helps us understand the physical world and solve practical problems through visual and spatial reasoning. If you have any specific questions or need help with a particular geometric concept, feel free to ask!
+Geometry is essential in many fields, including architecture, engineering, computer graphics, and physics. It helps us understand the physical world and solve practical problems through visual and spatial reasoning.
