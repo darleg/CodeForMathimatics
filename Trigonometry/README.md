@@ -1,1 +1,3 @@
-Hyperbolic functions are analogues of the trigonometric functions but are based on hyperbolas instead of circles. They are particularly useful in various areas of mathematics, physics, and engineering, especially in the fields of calculus, complex analysis, and hyperbolic geometry.
+Trigonometry is a fascinating branch of mathematics that focuses on the 
+relationships between the angles and sides of triangles, especially 
+right-angled triangles. Here's a brief overview:
