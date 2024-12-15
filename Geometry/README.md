@@ -1,1 +1,1 @@
-
+Geometry is a branch of mathematics that explores the properties, measurements, and relationships of points, lines, angles, surfaces, and solids. It's a way of understanding and describing shapes and spaces around us. Here are some key aspects of geometry:
