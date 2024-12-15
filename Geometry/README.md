@@ -7,3 +7,5 @@ Geometry is a branch of mathematics that explores the properties, measurements, 
    explores their properties and relationships.
 4. Coordinate Geometry: Uses a coordinate system to study geometric figures, blending algebra 
    and geometry to solve problems.
+5. Transformational Geometry: Looks at how shapes can be transformed through operations like 
+   translation, rotation, reflection, and scaling.
