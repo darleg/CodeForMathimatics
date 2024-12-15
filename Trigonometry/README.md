@@ -12,7 +12,7 @@ right-angled triangles. Here's a brief overview:
 - Cosine (cos): This function relates the angle to the ratio of the length of the adjacent 
   side to the hypotenuse.
 
-  $cos θ = Adjacent/Hypotenuse$
+  $cos θ = \frac{Adjacent}{Hypotenuse}$
   
 - Tangent (tan): This function relates the angle to the ratio of the length of the opposite 
   side to the adjacent side.
