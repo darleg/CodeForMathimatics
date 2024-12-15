@@ -6,3 +6,5 @@ right-angled triangles. Here's a brief overview:
   cosine (cos), and tangent (tan), which are ratios of different sides of the triangle.
 - Sine (sin): This function relates the angle to the ratio of the length of the opposite side 
   to the hypotenuse.
+- Cosine (cos): This function relates the angle to the ratio of the length of the adjacent 
+  side to the hypotenuse.
