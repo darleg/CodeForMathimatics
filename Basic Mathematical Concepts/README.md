@@ -18,13 +18,13 @@ Basic mathematical concepts that are fundamental to understanding more advanced 
 -  Angles: Formed by two rays with a common endpoint, measured in degrees.
 -  Shapes: Two-dimensional figures (e.g., triangles, squares, circles).
 5. Trigonometry
-Sine, Cosine, Tangent: Ratios of the sides of a right triangle relative to an angle.
-Unit Circle: A circle with a radius of one centered at the origin of a coordinate plane.
+-  Sine, Cosine, Tangent: Ratios of the sides of a right triangle relative to an angle.
+-  Unit Circle: A circle with a radius of one centered at the origin of a coordinate plane.
 6. Calculus
-Derivatives: Measure of how a function changes as its input changes.
-Integrals: Measure of the total accumulation of quantities.
+-  Derivatives: Measure of how a function changes as its input changes.
+-  Integrals: Measure of the total accumulation of quantities.
 7. Statistics
-Mean: Average of a set of numbers.
-Median: Middle value in a set of numbers.
-Mode: Most frequently occurring value in a set.
-Standard Deviation: Measure of the spread of a set of numbers.
+-  Mean: Average of a set of numbers.
+-  Median: Middle value in a set of numbers.
+-  Mode: Most frequently occurring value in a set.
+-  Standard Deviation: Measure of the spread of a set of numbers.
