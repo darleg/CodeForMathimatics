@@ -14,10 +14,7 @@ Basic mathematical concepts that are fundamental to understanding more advanced 
 -  Equations: Statements that two expressions are equal (e.g., 2x + 5 = 11).
 
 4. Geometry
-Points: Exact locations in space.
-
-Lines: Straight paths extending infinitely in both directions.
-
-Angles: Formed by two rays with a common endpoint, measured in degrees.
-
-Shapes: Two-dimensional figures (e.g., triangles, squares, circles).
+-  Points: Exact locations in space.
+-  Lines: Straight paths extending infinitely in both directions.
+-  Angles: Formed by two rays with a common endpoint, measured in degrees.
+-  Shapes: Two-dimensional figures (e.g., triangles, squares, circles).
