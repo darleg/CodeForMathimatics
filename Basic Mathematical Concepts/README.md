@@ -33,4 +33,5 @@ Basic mathematical concepts that are fundamental to understanding more advanced 
 -  Random Variables: Variables whose values depend on the outcomes of random phenomena.
 -  Distributions: Descriptions of the probabilities of different outcomes (e.g., normal 
    distribution).
+
 These concepts form the foundation of mathematics and are crucial for understanding more complex topics. If you have a specific area you'd like to delve deeper into, let me know!
