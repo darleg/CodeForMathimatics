@@ -28,3 +28,9 @@ Basic mathematical concepts that are fundamental to understanding more advanced 
 -  Median: Middle value in a set of numbers.
 -  Mode: Most frequently occurring value in a set.
 -  Standard Deviation: Measure of the spread of a set of numbers.
+8. Probability
+-  Probability: Measure of the likelihood of an event occurring, between 0 and 1.
+-  Random Variables: Variables whose values depend on the outcomes of random phenomena.
+-  Distributions: Descriptions of the probabilities of different outcomes (e.g., normal 
+   distribution).
+These concepts form the foundation of mathematics and are crucial for understanding more complex topics. If you have a specific area you'd like to delve deeper into, let me know!
