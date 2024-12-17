@@ -1,4 +1,4 @@
- Basic mathematical concepts that are fundamental to understanding more advanced topics.
+Basic mathematical concepts that are fundamental to understanding more advanced topics.
 1. Numbers and Operations
 - Integers: Whole numbers positive or negative, including zero (e.g., -2, 0, 3).
 - Fractions: Numbers expressed as the ratio of two integers (e.g., 1/2, 3/4).
