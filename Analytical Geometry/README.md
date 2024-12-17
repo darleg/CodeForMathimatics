@@ -1,2 +1,6 @@
 # Plotting Mathimatic Functions
+Back in high school, I used to draw beautiful plots on graph paper. To me, they looked cool. However, after taking multiple advanced math classes, my graphing skills weren't as sharp. Several years later, while taking some refresher courses, I realized I no longer had the patience to draw those beautiful plots by hand, especially since I had access to plotters and minicomputers at work.
 
+So, I wrote a Fortran program to graph my homework on 8x11 sheets of paper, producing 6 to 8 graphs per sheet. I also created a similar program using BASIC. This was done before personal computers became common, and most students didn’t have access to such equipment. I was unsure how my instructor would react, but I gave it a try. He remarked, "There’s always one in every class, a smart a—," but he liked my program and showed it to the class. Later, I created more plots for him.
+
+About two years later, I visited the math department for some advice and discovered that some of my programs had made it to their hall of fame as examples of what could be done. Now that I've been programming in Python for a while, I'm eager to see if I can create something similar using this modern language.
