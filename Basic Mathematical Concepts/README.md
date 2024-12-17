@@ -12,7 +12,6 @@ Basic mathematical concepts that are fundamental to understanding more advanced 
 -  Variables: Symbols (often letters) that represent numbers (e.g., x, y).
 -  Expressions: Combinations of numbers, variables, and operations (e.g., 2x + 5).
 -  Equations: Statements that two expressions are equal (e.g., 2x + 5 = 11).
-
 4. Geometry
 -  Points: Exact locations in space.
 -  Lines: Straight paths extending infinitely in both directions.
