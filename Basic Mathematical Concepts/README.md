@@ -3,8 +3,9 @@ Basic mathematical concepts that are fundamental to understanding more advanced 
 -  Integers: Whole numbers positive or negative, including zero.
 -  Floting-point: 
 -  Decimals: Numbers with a decimal point.
--  Complex: Numbers that have both a real part and an imaginary part.
 -  Fractions: Numbers expressed as the ratio of two integers.
+-  Complex: Numbers that have both a real part and an imaginary part.
+-  
 2. Arithmetic Operations
 -  Addition (+): Combining two numbers to get a sum.
 -  Subtraction (-): Finding the difference between two numbers.
