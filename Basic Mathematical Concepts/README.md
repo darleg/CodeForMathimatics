@@ -1,5 +1,5 @@
 Basic mathematical concepts that are fundamental to understanding more advanced topics.
-1. Numbers and Operations
+1. Numbers
 -  Integers: Whole numbers positive or negative, including zero (e.g., -2, 0, 3).
 -  Decimals: Numbers with a decimal point (e.g., 0.5, 3.14).
 -  Complex:
