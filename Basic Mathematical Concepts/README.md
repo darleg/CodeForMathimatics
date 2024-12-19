@@ -1,6 +1,7 @@
 Basic mathematical concepts that are fundamental to understanding more advanced topics.
 1. Numbers
 -  Integers: Whole numbers positive or negative, including zero.
+-  Floting-point: 
 -  Decimals: Numbers with a decimal point.
 -  Complex: Numbers that have both a real part and an imaginary part.
 -  Fractions: Numbers expressed as the ratio of two integers.
