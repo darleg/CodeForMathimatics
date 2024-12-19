@@ -2,7 +2,7 @@ Basic mathematical concepts that are fundamental to understanding more advanced 
 1. Numbers and Operations
 -  Integers: Whole numbers positive or negative, including zero (e.g., -2, 0, 3).
 -  Decimals: Numbers with a decimal point (e.g., 0.5, 3.14).
--  
+-  Complex:
 -  Fractions: Numbers expressed as the ratio of two integers (e.g., 1/2, 3/4).
 2. Arithmetic Operations
 -  Addition (+): Combining two numbers to get a sum.
