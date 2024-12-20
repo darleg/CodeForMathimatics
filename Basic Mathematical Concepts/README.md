@@ -4,7 +4,6 @@ Basic mathematical concepts that are fundamental to understanding more advanced 
 -  Floting-point: 
 -  Decimals: Numbers with a decimal point.
 -  Fractions: Numbers expressed as the ratio of two integers.
--  Exponets: 
 -  Complex: Numbers that have both a real part and an imaginary part.
 2. Arithmetic Operations
 -  Addition (+): Combining two numbers to get a sum.
