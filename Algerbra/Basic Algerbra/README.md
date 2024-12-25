@@ -6,8 +6,7 @@ Let's dive into the basics of algebra! Algebra is all about working with variabl
 2. Algebraic Expressions
 - Combinations of variables, constants, and operations (addition, subtraction, 
   multiplication, and division).
-
-Example: 2𝑥+3 or 4𝑦−7
+- Example: 2𝑥+3 or 4𝑦−7
 
 3. Equations
 An equation states that two expressions are equal.
