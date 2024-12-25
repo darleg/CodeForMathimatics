@@ -1,4 +1,6 @@
-Let's dive into the basics of algebra! Algebra is all about working with variables and constants to solve equations. Here are some foundational concepts:
+# Basic Algerbra
+
+Basics of algebra! Algebra is all about working with variables and constants to solve equations. Here are some foundational concepts:
 
 1. Variables and Constants
 - Variables: Symbols (like 𝑥 or 𝑦) that represent unknown values.
