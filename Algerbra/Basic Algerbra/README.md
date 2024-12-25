@@ -32,19 +32,7 @@ Let's dive into the basics of algebra! Algebra is all about working with variabl
   1. Subtract 3 from both sides: 2𝑥>4
   2. Divide both sides by 2: 𝑥>2
 7. Quadratic Equations (A Step Further)
-Equations of the second degree (the highest power of the variable is 2).
+- Equations of the second degree (the highest power of the variable is 2).
+- Example: 𝑥2−5𝑥+6=0
+- Can be solved by factoring, completing the square, or using the quadratic formula.
 
-Example: 
-𝑥
-2
-−
-5
-𝑥
-+
-6
-=
-0
-
-Can be solved by factoring, completing the square, or using the quadratic formula.
-
-Here's a basic example of solving a linear equation in Python:
