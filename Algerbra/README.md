@@ -1,4 +1,5 @@
-Algebra
+# Algebra
+
 Algebra is a broad branch of mathematics that deals with symbols and the rules
 for manipulating those symbols. The symbols represent quantities without fixed 
 values, known as variables. Algebra covers a variety of topics, including:
