@@ -11,4 +11,4 @@ Let's dive into the basics of algebra! Algebra is all about working with variabl
 3. Equations
 - An equation states that two expressions are equal.
 - Example: 2𝑥+3=7
-= The goal is to find the value of the variable that makes the equation true.
+-  The goal is to find the value of the variable that makes the equation true.
