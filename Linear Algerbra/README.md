@@ -8,6 +8,8 @@ Linear Algebra, on the other hand, is a more specialized area within the broader
 
 - Systems of Linear Equations: Solving for multiple variables using equations.
 
-Eigenvalues and Eigenvectors: Special numbers and vectors associated with matrices that provide insights into their properties.
+- Eigenvalues and Eigenvectors: Special numbers and vectors associated with matrices that 
+  provide insights into their properties.
 
-Applications: Used extensively in areas such as computer science, physics, engineering, and more.
+- Applications: Used extensively in areas such as computer science, physics, engineering, and 
+  more.
