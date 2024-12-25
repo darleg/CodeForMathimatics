@@ -11,4 +11,50 @@ Let's dive into the basics of algebra! Algebra is all about working with variabl
 3. Equations
 - An equation states that two expressions are equal.
 - Example: 2𝑥+3=7
--  The goal is to find the value of the variable that makes the equation true.
+- The goal is to find the value of the variable that makes the equation true.
+
+4. Solving Equations
+- Linear Equations: Equations of the first degree (the highest power of the variable is 1).
+- Example: 2𝑥+3=7
+  1. Subtract 3 from both sides: 2𝑥=4
+  2. Divide both sides by 2: 𝑥=2
+
+5. Basic Operations
+Addition and Subtraction: Combining like terms.
+
+Example: 
+3
+𝑥
++
+2
+𝑥
+=
+5
+𝑥
+
+Multiplication: Distributive property.
+
+Example: 
+3
+(
+𝑥
++
+2
+)
+=
+3
+𝑥
++
+6
+
+Division: Isolating the variable.
+
+Example: 
+𝑥
+4
+=
+2
+ becomes 
+𝑥
+=
+8
