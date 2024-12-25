@@ -18,43 +18,10 @@ Let's dive into the basics of algebra! Algebra is all about working with variabl
 - Example: 2𝑥+3=7
   1. Subtract 3 from both sides: 2𝑥=4
   2. Divide both sides by 2: 𝑥=2
-
 5. Basic Operations
-Addition and Subtraction: Combining like terms.
-
-Example: 
-3
-𝑥
-+
-2
-𝑥
-=
-5
-𝑥
-
-Multiplication: Distributive property.
-
-Example: 
-3
-(
-𝑥
-+
-2
-)
-=
-3
-𝑥
-+
-6
-
-Division: Isolating the variable.
-
-Example: 
-𝑥
-4
-=
-2
- becomes 
-𝑥
-=
-8
+- Addition and Subtraction: Combining like terms.
+  - Example: 3𝑥+2𝑥=5𝑥
+- Multiplication: Distributive property.
+  - Example: 3(𝑥+2)=3𝑥+6
+- Division: Isolating the variable.
+  - Example: 𝑥4=2 becomes 𝑥=8
