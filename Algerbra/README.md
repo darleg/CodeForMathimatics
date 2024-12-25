@@ -1,5 +1,6 @@
 Algebra
-Algebra is a broad branch of mathematics that deals with symbols and the rules for manipulating those symbols. The symbols represent quantities without fixed values, known as variables. Algebra covers a variety of topics, including:
+Algebra is a broad branch of mathematics that deals with symbols and the rules
+for manipulating those symbols. The symbols represent quantities without fixed values, known as variables. Algebra covers a variety of topics, including:
 
 - Basic Algebra: Involves operations and the manipulation of variables and constants.
 - Polynomials: Expressions involving variables and exponents.
