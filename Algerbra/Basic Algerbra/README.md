@@ -6,33 +6,33 @@ Let's dive into the basics of algebra! Algebra is all about working with variabl
 2. Algebraic Expressions
 - Combinations of variables, constants, and operations (addition, subtraction, 
   multiplication, and division).
-- Example: 2𝑥+3 or 4𝑦−7
+- Example: $2𝑥+3$ or $4𝑦−7$
 
 3. Equations
 - An equation states that two expressions are equal.
-- Example: 2𝑥+3=7
+- Example: $2𝑥+3=7$
 - The goal is to find the value of the variable that makes the equation true.
 
 4. Solving Equations
 - Linear Equations: Equations of the first degree (the highest power of the variable is 1).
-- Example: 2𝑥+3=7
-  1. Subtract 3 from both sides: 2𝑥=4
-  2. Divide both sides by 2: 𝑥=2
+- Example: $2𝑥+3=7$
+  1. Subtract 3 from both sides: $2𝑥=4$
+  2. Divide both sides by 2: $𝑥=2$
 5. Basic Operations
 - Addition and Subtraction: Combining like terms.
-  - Example: 3𝑥+2𝑥=5𝑥
+  - Example: $3𝑥+2𝑥=5𝑥$
 - Multiplication: Distributive property.
-  - Example: 3(𝑥+2)=3𝑥+6
+  - Example: $3(𝑥+2)=3𝑥+6$
 - Division: Isolating the variable.
-  - Example: 𝑥4=2 becomes 𝑥=8
+  - Example: $𝑥4=2$ becomes $𝑥=8$
 
 6. Inequalities
 - Statements that compare two expressions using inequality symbols: >,<,≥,≤
-- Example: 2𝑥+3>7
-  1. Subtract 3 from both sides: 2𝑥>4
-  2. Divide both sides by 2: 𝑥>2
+- Example: $2𝑥+3>7$
+  1. Subtract 3 from both sides: $2𝑥>4$
+  2. Divide both sides by 2: $𝑥>2$
 7. Quadratic Equations (A Step Further)
 - Equations of the second degree (the highest power of the variable is 2).
-- Example: 𝑥2−5𝑥+6=0
+- Example: $𝑥2−5𝑥+6=0$
 - Can be solved by factoring, completing the square, or using the quadratic formula.
 
