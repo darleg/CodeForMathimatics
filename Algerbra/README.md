@@ -3,7 +3,8 @@ Algebra is a broad branch of mathematics that deals with symbols and the rules f
 
 - Basic Algebra: Involves operations and the manipulation of variables and constants.
 - Polynomials: Expressions involving variables and exponents.
-- Equations and Inequalities: Solving for unknowns, working with equalities and inequalities.
+- Equations and Inequalities: Solving for unknowns, working with equalities and
+  inequalities.
 - Functions: Mapping of inputs to outputs, examining different types of functions like 
   linear, quadratic, etc.
 
