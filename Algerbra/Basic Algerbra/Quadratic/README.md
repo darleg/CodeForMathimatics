@@ -28,12 +28,12 @@ where:
 - This formula always works, even when factoring is difficult or impossible.
 - Example: For 2𝑥2+4𝑥−6=0:
 
-  $$x = \frac{-4 \pm \sqrt{4^2 - 4 \cdot 2 \cdot (-6)}}{2 \cdot 2}$$
+  $x = \frac{-4 \pm \sqrt{4^2 - 4 \cdot 2 \cdot (-6)}}{2 \cdot 2}$
 
-  $$ x = \frac{-4 \pm \sqrt{16 + 48}}{4} $$
+  $ x = \frac{-4 \pm \sqrt{16 + 48}}{4} $
 
-  $$ x = \frac{-4 \pm \sqrt{64}}{4} $$
+  $ x = \frac{-4 \pm \sqrt{64}}{4} $
 
-  $$ x = \frac{-4 \pm 8}{4} $$
+  $ x = \frac{-4 \pm 8}{4} $
 
-  $$ x = 1 \text{ or } x = -3 $$
+  $ x = 1 \text{ or } x = -3 $
