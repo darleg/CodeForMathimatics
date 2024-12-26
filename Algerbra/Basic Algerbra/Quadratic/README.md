@@ -12,7 +12,7 @@ where:
 - 𝑥 is the variable we are solving for.
 
 ## Methods to Solve Quadratic Equations
-1. Factoring:
+### 1. Factoring:
 - Find two numbers that multiply to 𝑎𝑐 and add to 𝑏.
 - Rewrite the middle term using these numbers and factor by grouping.
 - Example:
