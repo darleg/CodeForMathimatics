@@ -16,6 +16,7 @@ where:
 - Find two numbers that multiply to 𝑎𝑐 and add to 𝑏.
 2. Rewrite the middle term using these numbers and factor by grouping.
 - Example:
+
   $x^2 + 5x + 6 = 0$
 
   $(x + 2)(x + 3) = 0$
