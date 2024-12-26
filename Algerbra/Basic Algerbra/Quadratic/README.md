@@ -23,7 +23,7 @@ where:
   
   So, $𝑥=−2$ or $𝑥=−3$
 
-2. Quadratic Formula:
+### 2. Quadratic Formula:
 - Use the formula: $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$           
 - This formula always works, even when factoring is difficult or impossible.
 - Example: For 2𝑥2+4𝑥−6=0:
@@ -38,7 +38,7 @@ where:
 
   $x = 1 \text{ or } x = -3$
 
-3. Completing the Square:
+### 3. Completing the Square:
 - Rearrange the equation to isolate the quadratic and linear terms on one side.
 - Complete the square and solve for 𝑥.
 - Example:
