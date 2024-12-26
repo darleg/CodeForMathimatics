@@ -20,5 +20,4 @@ A polynomial is an algebraic expression that consists of variables and coefficie
 - Example: (2𝑥2+3𝑥+1)+(𝑥2−2𝑥+4)=3𝑥2+𝑥+5
 2. Multiplication: Use the distributive property (FOIL method for binomials).
 - Example: (𝑥+2)(𝑥+3)=𝑥2+5𝑥+6
-
-Division: Use long division or synthetic division.
+3. Division: Use long division or synthetic division.
