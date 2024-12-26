@@ -11,9 +11,9 @@ A polynomial is an algebraic expression that consists of variables and coefficie
 -𝑛 is a non-negative integer, representing the degree of the polynomial.
 
 ## Types of Polynomials
-- Monomial: A polynomial with only one term (e.g., 3𝑥2).
-- Binomial: A polynomial with two terms (e.g., 𝑥2+3𝑥).
-- Trinomial: A polynomial with three terms (e.g., 𝑥2+3𝑥+2).
+- Monomial: A polynomial with only one term (3𝑥2).
+- Binomial: A polynomial with two terms (𝑥2+3𝑥).
+- Trinomial: A polynomial with three terms (𝑥2+3𝑥+2).
 
 ## Operations with Polynomials
 1. Addition/Subtraction: Combine like terms.
