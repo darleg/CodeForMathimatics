@@ -41,5 +41,14 @@ where:
 3. Completing the Square:
 - Rearrange the equation to isolate the quadratic and linear terms on one side.
 - Complete the square and solve for 𝑥.
-
-Example: $$ x^2 + 6x + 8 = 0 $$ $$ x^2 + 6x = -8 $$ $$ x^2 + 6x + 9 = 1 $$ $$ (x + 3)^2 = 1 $$ $$ x + 3 = \pm 1 $$ $$ x = -2 \text{ or } x = -4 $$
+- Example: $$x^2 + 6x + 8 = 0$$
+- 
+  $$x^2 + 6x = -8$$
+  
+  $$x^2 + 6x + 9 = 1$$
+  
+  $$(x + 3)^2 = 1$$
+  
+  $$x + 3 = \pm 1$$
+  
+  $$x = -2 \text{ or } x = -4$$
