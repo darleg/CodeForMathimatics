@@ -6,7 +6,5 @@ $$
 
 where:
 
-𝑎,𝑏, and 
-𝑐 are constants with 
-𝑎≠0.𝑥
- is the variable we are solving for.
+- 𝑎,𝑏, and 𝑐 are constants with $𝑎 ≠ 0$.
+- 𝑥 is the variable we are solving for.
