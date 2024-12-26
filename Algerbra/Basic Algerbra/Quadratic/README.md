@@ -22,3 +22,20 @@ where:
   $(x + 2)(x + 3) = 0$
   
   So, $𝑥=−2$ or $𝑥=−3$
+
+2. Quadratic Formula:
+- Use the formula: $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$           
+- This formula always works, even when factoring is difficult or impossible.
+
+Example: For 
+2
+𝑥
+2
++
+4
+𝑥
+−
+6
+=
+0
+: $$ x = \frac{-4 \pm \sqrt{4^2 - 4 \cdot 2 \cdot (-6)}}{2 \cdot 2} $$ $$ x = \frac{-4 \pm \sqrt{16 + 48}}{4} $$ $$ x = \frac{-4 \pm \sqrt{64}}{4} $$ $$ x = \frac{-4 \pm 8}{4} $$ $$ x = 1 \text{ or } x = -3 $$
