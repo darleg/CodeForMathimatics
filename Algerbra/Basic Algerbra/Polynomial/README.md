@@ -1,7 +1,7 @@
 A polynomial is an algebraic expression that consists of variables and coefficients, involving operations of addition, subtraction, multiplication, and non-negative integer exponents of variables. Polynomials are an essential part of algebra and mathematics in general.
 
 Structure of Polynomials
-A polynomial can be represented in the form: $$ a_n x^n + a_{n-1} x^{n-1} + ... + a_1 x + a_0 $$ where:
+A polynomial can be represented in the form: $a_n x^n + a_{n-1} x^{n-1} + ... + a_1 x + a_0$ where:
 
 𝑎
 𝑛
