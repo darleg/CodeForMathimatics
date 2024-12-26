@@ -21,3 +21,9 @@ A polynomial is an algebraic expression that consists of variables and coefficie
 2. Multiplication: Use the distributive property (FOIL method for binomials).
 - Example: (𝑥+2)(𝑥+3)=𝑥2+5𝑥+6
 3. Division: Use long division or synthetic division.
+
+## Factoring Polynomials
+Factoring is the process of breaking down a polynomial into simpler polynomials that can be multiplied together to obtain the original polynomial. Common methods include:
+- Factoring out the Greatest Common Factor (GCF).
+- Factoring by grouping.
+- Using special formulas: Such as the difference of squares, sum/difference of cubes.
