@@ -14,7 +14,7 @@ where:
 ## Methods to Solve Quadratic Equations
 1. Factoring:
 - Find two numbers that multiply to 𝑎𝑐 and add to 𝑏.
-2. Rewrite the middle term using these numbers and factor by grouping.
+- Rewrite the middle term using these numbers and factor by grouping.
 - Example:
 
   $x^2 + 5x + 6 = 0$
