@@ -1,1 +1,1 @@
-
+A polynomial is an algebraic expression that consists of variables and coefficients, involving operations of addition, subtraction, multiplication, and non-negative integer exponents of variables. Polynomials are an essential part of algebra and mathematics in general.
