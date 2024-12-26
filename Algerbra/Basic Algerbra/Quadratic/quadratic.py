@@ -14,10 +14,10 @@ print("Roots:", r1, r2)
 def quadratic_function(x):
     return a*x**2 + b*x + c
 # Create an array of x values
-x_values = linspace(0, 3, 400)
-y_values = quadratic_function(x_values)
+xrange = linspace(0, 3, 400)
+yrange = quadratic_function(xrange)
 # Plot the quadratic function
-plot(x_values, y_values, label=f'{a}x^2 + {b}x + {c}')
+plot(xrange, yrange, label=f'{a}x^2 + {b}x + {c}')
 axhline(0, color='black', linewidth=0.5)
 axvline(0, color='black', linewidth=0.5)
 scatter([r1, r2], [0, 0], color='red')  # Plot the roots

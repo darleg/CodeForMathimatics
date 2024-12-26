@@ -20,10 +20,10 @@ print("\nRoots of the polynomial:")
 print(roots)
 
 # Plot the polynomial
-x_values = linspace(-5, 5, 400)
-y_values = p(x_values)
+xrange = linspace(-4, 4, 400)
+yrange = p(xrange)
 
-plot(x_values, y_values, label=str(p))
+plot(xrange, yrange, label=str(p))
 xlabel('x')
 ylabel('y')
 title('Polynomial Plot')
