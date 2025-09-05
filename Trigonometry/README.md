@@ -1,4 +1,5 @@
 In geometry we learn about lines and angles that are fundamental concepts that are used for understanding shapes. We also learn about kinds of triangles in which one of them is a right-angled triangle.
+
 With the Pythagorean theorem is used to calculate the hypotenuse a² + b² = c².
 
 
