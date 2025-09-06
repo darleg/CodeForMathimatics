@@ -38,7 +38,7 @@ The ratios of trigonometry are given by:
 
 - $\large \sec \theta = \frac{1}{x}$
 
-- $\large \cosec \theta = \frac{1}{y}$
+- $\large \csc \theta = \frac{1}{y}$
 
 
 
