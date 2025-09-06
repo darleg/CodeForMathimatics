@@ -27,7 +27,11 @@ relationships between the angles and sides of triangles, especially right-angled
   
 Unit Circle Formula in Trigonometry
 
-- $x^2 + y^2 = 1$
+- The general equation of circle is given below:
+\large \left(x-h\right)^{2}+\left(y-k\right)^{2}=r^{2}
+
+- The unit circle formula is:
+$x^2 + y^2 = 1$
 
 The ratios of trigonometry are given by:
 
