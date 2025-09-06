@@ -28,7 +28,7 @@ relationships between the angles and sides of triangles, especially right-angled
 Unit Circle Formula in Trigonometry
 
 - The general equation of circle is given below:
-\large \left(x-h\right)^{2}+\left(y-k\right)^{2}=r^{2}
+$\large \left(x-h\right)^{2}+\left(y-k\right)^{2}=r^{2}$
 
 - The unit circle formula is:
 $x^2 + y^2 = 1$
