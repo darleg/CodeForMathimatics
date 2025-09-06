@@ -32,13 +32,13 @@ The ratios of trigonometry are given by:
 
 - $\large \cos \theta = \frac{x}{1} = x$
 
-- $\large \tan \theta = \frac{y}{x}$
+- $\large \tan \theta = \frac{\sin \theta}{\cos \theta} = \frac{y}{x}$
 
-- $\large \cot \theta = \frac{x}{y}$
+- $\large \cot \theta = \frac{\cos \theta}{\sin \theta} = \frac{x}{y}$
 
-- $\large \sec \theta = \frac{1}{x}$
+- $\large \sec \theta = \frac{1}{\cos \theta} = \frac{1}{x}$
 
-- $\large \csc \theta = \frac{1}{y}$
+- $\large \csc \theta = \frac{1}{\sin \theta} = \frac{1}{y}$
 
 
 
