@@ -24,5 +24,24 @@ relationships between the angles and sides of triangles, especially right-angled
   side to the adjacent side.
 
   $\large \tan \theta = \frac{Opposite}{Adjacent}$
+  
+Unit Circle Formula in Trigonometry
+The ratios of trigonometry are given by:
+
+$\sin \theta = \frac{y}{1} = y$
+
+$\cos \theta = \frac{x}{1} = x$
+
+$\tan \theta = \frac{y}{x}$
+
+$\cot \theta = \frac{x}{y}$
+
+$\sec \theta = \frac{1}{x}$
+
+$\cosec \theta = \frac{1}{y}$
+
+
+
+
 
 Trigonometry isn't just limited to theoretical math; it's widely used in various fields such as physics, engineering, astronomy, and even in computer graphics. It's a critical tool for understanding waves, oscillations, and many other natural phenomena.
