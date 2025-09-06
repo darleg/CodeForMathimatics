@@ -26,6 +26,9 @@ relationships between the angles and sides of triangles, especially right-angled
   $\large \tan \theta = \frac{Opposite}{Adjacent}$
   
 Unit Circle Formula in Trigonometry
+
+- $x^2 + y^2 = 1$
+
 The ratios of trigonometry are given by:
 
 - $\large \sin \theta = \frac{y}{1} = y$
