@@ -31,7 +31,7 @@ Unit Circle Formula in Trigonometry
 $\large \left(x-h\right)^{2}+\left(y-k\right)^{2}=r^{2}$
 
 - The unit circle formula is:
-$x^2 + y^2 = 1$
+$\large x^2 + y^2 = 1$
 
 The ratios of trigonometry are given by:
 
