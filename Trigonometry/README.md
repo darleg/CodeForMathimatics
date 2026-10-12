@@ -52,4 +52,4 @@ The ratios of trigonometry are given by:
 
 
 Trigonometry isn't just limited to theoretical math; it's widely used in various fields such as physics, engineering, astronomy, and even in computer graphics. It's a critical tool for understanding waves, oscillations, and many other natural phenomena.
-dd
+
