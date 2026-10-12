@@ -31,4 +31,4 @@ axvline(0, color='black', linewidth=0.5)
 gca().set_aspect('equal', adjustable='box')
 legend()
 # Show the plot
-show()
+show()dd
