@@ -13,4 +13,3 @@ Geometry is a branch of mathematics that explores the properties, measurements, 
    Euclidean geometry, such as hyperbolic and elliptic geometry
 
 Geometry is essential in many fields, including architecture, engineering, computer graphics, and physics. It helps us understand the physical world and solve practical problems through visual and spatial reasoning.
-dd
